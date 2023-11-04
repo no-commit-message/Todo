@@ -1,2 +1,8 @@
 # environment
 venv/
+
+# database
+db.sqlite3
+
+# cache files
+__pycache__/
